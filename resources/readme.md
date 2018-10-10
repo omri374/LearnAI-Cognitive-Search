@@ -7,4 +7,4 @@ alternative for the [text introduction](01-Introduction.md). The available resou
 
 2. [Introduction-for-ILT-markdown-option.md](Introduction-for-ILT-markdown-option.md): Alternative for the pdf file, no download required. Exact same content.
 
-3. [Slides](slides/slides.md) folder: pdf slides extracted to png format, used into the Introduction-for-ILT-markdown-option.md file.
+3. [Slides](instructor-slides/README.md) folder: pdf slides extracted to png format, used into the Introduction-for-ILT-markdown-option.md file.
