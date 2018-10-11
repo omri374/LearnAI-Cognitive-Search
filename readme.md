@@ -19,11 +19,11 @@ At the end of this workshop, you should have learned:
 Since this is an AI training on top of Microsoft Azure Services, before we start you need:
 
 + **If if you don't have prior experience:**
-1. **To Read:** [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/visual-studio-ide) tutorial
-1. **To Read:** [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview) quick introduction 
-1. **To Read:** [Azure Search](https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search) overview
-1. **To Read:** [Using Postman](https://docs.microsoft.com/en-us/azure/search/search-fiddler) tutorial
-1. **To Watch:** [MVA: C# Fundamentals](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949) short videos
+1. **To Read (10 minutes):** [Visual Studio Tutorial](https://docs.microsoft.com/en-us/visualstudio/ide/visual-studio-ide)
+1. **To Read (4 minutes):** [Azure Functions Overview](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)  
+1. **To Read (10 minutes):** [Azure Search Overview](https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search) 
+1. **To Read (7 minutes):** [Postman Tutorial](https://docs.microsoft.com/en-us/azure/search/search-fiddler) 
+1. **To Do (30 minutes):** [C# Quickstart](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/) 
 
 + **Mandatory**
 1. **To Create:** You need a Microsoft Azure account to create the services we use in our solution. You can create a [free account](https://azure.microsoft.com/en-us/free/), use your [MSDN account](https://azure.microsoft.com/en-us/pricing/member-offers/credit-for-visual-studio-subscribers/) or use any other subscription where you have permission to create services.
