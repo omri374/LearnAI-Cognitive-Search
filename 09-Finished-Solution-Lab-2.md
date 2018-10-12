@@ -121,10 +121,7 @@ Here are the body requests for the solution to Lab 2. Don't forget to adjust the
 ## Index
 ```json
 {
-    "@odata.context": "https://[servicename].search.windows.net/$metadata#indexes/$entity",
-    "@odata.etag": "\"0x8D5B9CB96002CA5\"",
-    "name": "demoindex",
-    "fields": [
+       "fields": [
         {
             "name": "id",
             "type": "Edm.String",
