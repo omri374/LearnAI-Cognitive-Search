@@ -21,9 +21,9 @@ Although this example uses an Azure Function to host a web API, it is not requir
 
 2. In the New Project dialog, select **Installed**, expand **Visual C#** > **Cloud**, select **Azure Functions**, 
 type a Name for your project, and select **OK**. The function app name must be valid as a C# namespace, so don't use underscores, hyphens, or any other nonalphanumeric characters.
-Please make sure you are creating the project using the V2 for the .Net Core framework.
 
-3. Select the type to be **HTTP Trigger**.
+
+3. Select the type to be **HTTP Trigger**. Please make sure you are creating the project using **Azure Functions v2 (.NET Standard)** framework.
 
 4. For Storage Account, you may select **None**, as you won't need any storage for this function.
 
