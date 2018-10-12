@@ -8,7 +8,7 @@ Here are the body requests for the solution to Lab 2. Don't forget to adjust the
 {
     "@odata.context": "https://[servicename].search.windows.net/$metadata#skillsets/$entity",
     "@odata.etag": "\"0x8D5B9CB6F0A77E2\"",
-    "name": "rodskillset2",
+    "name": "demoskillset",
     "description": "Extract entities, detect language and extract key-phrases",
     "skills": [
         {
@@ -126,7 +126,7 @@ Here are the body requests for the solution to Lab 2. Don't forget to adjust the
 {
     "@odata.context": "https://[servicename].search.windows.net/$metadata#indexes/$entity",
     "@odata.etag": "\"0x8D5B9CB96002CA5\"",
-    "name": "rodindex2",
+    "name": "demoindex",
     "fields": [
         {
             "name": "id",
