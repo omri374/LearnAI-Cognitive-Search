@@ -1,7 +1,7 @@
 # Final Case
 
 ## Objective
-This activity was designed as a group exercise in ILT (Instructor Lead Trainigs). But you also can do it if you are doing the workshop alone.
+This activity was designed as a group exercise in ILT (Instructor Lead Trainings). But you also can do it if you are doing the workshop alone.
 
 This culminating activity will allow you and your group to get hands-on experience designing and architecting an intelligent agent from end-to-end. 
 The output of this activity is for students to work together and build on what they've learned to design and architect an intelligent agent.
